@@ -1,3 +1,3 @@
 # Headline
 
-[直接阅读](https://zly2022.github.io/java_learning_notes/#/)
+[直接阅读](https://zbeichen.github.io/java_learning_notes/#/)
