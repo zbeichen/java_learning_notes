@@ -1,3 +1,4 @@
+![logo](ico/icon.ico)
 # Myblogs
 
 > 这是我的第一个博客
