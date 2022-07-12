@@ -4,6 +4,5 @@
 
 
 
-[CSDN](https://www.baidu.com)
-
-[滚动鼠标](#introduction)
+[GitHub](https://github.com/zly2022/java_learning_notes)
+[阅读](README.md)
